@@ -1,3 +1,5 @@
+import "/workspaces/codespaces-react/src/styles/pages/home/home.css";
+
 export default function Home() {
   return (
     <div>
