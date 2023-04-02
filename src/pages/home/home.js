@@ -11,7 +11,7 @@ export default function Home() {
           We are a team of dedicated professionals with a passion for creating
           innovative solutions. Our goal is to help businesses grow by providing
           top-notch services and products tailored to their needs. We pride
-          ourselves on our commitment to quality and customer satisfaction.
+          ourselves on our commitment to quality and customer satisfaction. Version 1
         </p>
       </section>
     </div>
