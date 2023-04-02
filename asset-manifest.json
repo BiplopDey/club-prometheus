@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/club-prometheus/static/css/main.b7327977.css",
-    "main.js": "/club-prometheus/static/js/main.7e6376c9.js",
+    "main.js": "/club-prometheus/static/js/main.0dd50a99.js",
     "static/js/496.0320d045.chunk.js": "/club-prometheus/static/js/496.0320d045.chunk.js",
     "index.html": "/club-prometheus/index.html",
     "main.b7327977.css.map": "/club-prometheus/static/css/main.b7327977.css.map",
-    "main.7e6376c9.js.map": "/club-prometheus/static/js/main.7e6376c9.js.map",
+    "main.0dd50a99.js.map": "/club-prometheus/static/js/main.0dd50a99.js.map",
     "496.0320d045.chunk.js.map": "/club-prometheus/static/js/496.0320d045.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7327977.css",
-    "static/js/main.7e6376c9.js"
+    "static/js/main.0dd50a99.js"
   ]
 }
