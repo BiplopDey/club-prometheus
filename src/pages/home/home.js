@@ -1,11 +1,10 @@
+import Header from "../../components/header";
 import "/workspaces/codespaces-react/src/styles/pages/home/home.css";
 
 export default function Home() {
   return (
     <div>
-      <header>
-        <h1>My Website</h1>
-      </header>
+      <Header />
       <section>
         <h2>About Us</h2>
         <p>
